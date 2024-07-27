@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 # pro
 # School-project
 # School-project
+# SchoolProject-
